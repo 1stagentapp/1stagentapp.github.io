@@ -1,7 +1,7 @@
 {
-  "name": "1st agent — Intelligent onboarding",
-  "short_name": "1st agent",
-  "description": "A human-grade video agent that onboards customers and teams.",
+  "name": "1st Agent App — Intelligent Onboarding",
+  "short_name": "1st Agent App",
+  "description": "AI-powered video agent platform that transforms the onboarding experiences",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
