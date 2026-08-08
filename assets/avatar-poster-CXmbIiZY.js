@@ -1,0 +1,1 @@
+var e={version:1,asset_id:`56b9eeef-482a-48e9-955e-0816691bedea`,project_id:`ce553552-be24-4ec8-a514-0ebc3dd8c40d`,url:`/__l5e/assets-v1/56b9eeef-482a-48e9-955e-0816691bedea/avatar.mp4`,original_filename:`avatar.mp4`,size:6272587,created_at:`2026-08-02T00:34:22Z`},t=`/assets/avatar-poster-BmZfn8Ok.jpg`;export{e as n,t};
